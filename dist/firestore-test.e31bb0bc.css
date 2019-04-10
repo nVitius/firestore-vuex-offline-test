@@ -1,0 +1,21 @@
+#content[data-v-877879] {
+  display: flex;
+  height: 500px;
+}
+#content div.list[data-v-877879] {
+  width: 300px;
+  overflow: scroll;
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+}
+#content #add[data-v-877879] {
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  width: 100px;
+}
+#content #add button[data-v-877879] {
+  width: 80px;
+  height: 40px;
+}
